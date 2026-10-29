@@ -1,0 +1,2 @@
+Method,Task,Accuracy (%),Precision (%),Recall (%),F1 (%)
+Rule-Based Detector,Binary: malicious vs non-malicious,43.8,100.0,21.84,35.85
